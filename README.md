@@ -1,1 +1,3 @@
-This repo is for setup of React with Typescript Variant and integration of tailwindcss with ShadCn.
+This Repo is for my Generative AI Project: CHAT WITH DOCUMENTS.
+
+I used RAG, LangChain, and LLM ( Deepseek v3: free model).
